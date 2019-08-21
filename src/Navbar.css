@@ -1,0 +1,33 @@
+nav{
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  align-self: flex-end;
+}
+
+.nav {
+  border-radius: 25px;
+  border-width: thick;
+  background-color: blue;
+  border-color: blue;
+}
+
+fieldset{
+  width: inherit;
+  display: inline-block;
+  border: 5px solid;
+}
+#login{
+  text-align: center;
+  /*margin-left: 50%;
+  margin-bottom: 90%;
+  */
+  display: none;
+}
+.AllLogin{
+  display: inline-block;
+  text-align: right;
+}
+#signup{
+  display: none;
+}
